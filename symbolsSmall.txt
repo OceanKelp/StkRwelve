@@ -1,0 +1,6 @@
+﻿Symbol
+C
+AAPL
+NVDA
+
+
